@@ -5,6 +5,14 @@
 
 ---
 
+### A little more about me...  
+A passionate web Backend developer from Colombia. 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcatalanmoneris@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573163535657&text=Hi!🖖)
+
+---
+
 ### Technologies I work with:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -14,14 +22,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-FF3300?style=flat&logo=ajax&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
----
-
-### A little more about me...  
-A passionate web Backend developer from Colombia. 
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcatalanmoneris@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573163535657&text=Hi!🖖)
 
 ---
 
