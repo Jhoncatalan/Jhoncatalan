@@ -1,24 +1,28 @@
-### Hi there, I'm Johnayfer Catalan! 👋
+## Hi, I'm Johnayfer Catalan! 👋
 
-#### Desarrollador Backend PHP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-
----
-
-<h3 align="center">¡Un apasionado desarrollador web Backend de Colombia!</h3>
+### Desarrollador Backend PHP
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
 
-📫 Contáctame:
-- [Correo electrónico](mailto:jcatalanmoneris@gmail.com)
-- [WhatsApp](https://api.whatsapp.com/send?phone=573163535657&text=Hi!🖖)
+### A little more about me...  
+A passionate web Backend developer from Colombia. 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jcatalanmoneris@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573163535657&text=Hi!🖖)
 
 ---
 
-### Tecnologías que manejo:
-
-<img src="https://img.icons8.com/color/48/000000/php.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/ajax.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-FF3300?style=flat&logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"> <em><b>¡Me encanta conectar con diferentes personas!</b> Así que si quieres saludar, ¡estaré encantado de conocerte más! :)</em>
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
 
