@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <h3 align="center">
-  A passionate web fullstack developer from Colombia. 
+  A passionate web Backend developer from Colombia. 
 
 </h3>
         
@@ -24,7 +24,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
       </div>
 </div>
